@@ -1,0 +1,3 @@
+What is an environment variable?
+Why not store secrets in code?
+Where are env vars used in DevOps?
